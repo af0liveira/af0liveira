@@ -1,4 +1,4 @@
-### Hi there, I'm Augusto 👋
+# Hello, I'm Augusto Oliveira 👋
 
 <!--
 **af0liveira/af0liveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
