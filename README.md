@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Augusto 👋
 
 <!--
 **af0liveira/af0liveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+
+- 🎓 PhD in Theoretical Chemistry
+- 🐍 Python programmer
+- 🌱 I’m currently learning ...
+
