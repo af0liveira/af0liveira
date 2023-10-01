@@ -1,6 +1,6 @@
-# Augusto F. Oliveira<img src="img/onlaptop-sticker.png" height="40px">
+# Augusto F. Oliveira <img src="img/onlaptop-sticker.png" height="40px">
 
-<img align="left" src="img/thumbup-sticker.png" width="25%"/>
+<!-- <img align="left" src="img/thumbup-sticker.png" width="25%"/> -->
 
 Hi, there! 👋
 
