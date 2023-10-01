@@ -1,15 +1,9 @@
-# Augusto F. Oliveira <img src="img/onlaptop-sticker.png" height="40px">
+<h1>Augusto F. Oliveira <img src="img/onlaptop-sticker.png" height="40px"></h1>
 
-<style type=text/css>
-    .intro {
-        display: flex;
-        gap: 2rem;
-        align-items: center;
-    }
-</style>
-
-<div class="intro">
-    <img src="img/thumbup-sticker.png" width="25%"/>
+<div style="display: flex; align-items: center;">
+    <div align="center">
+        <img src="img/thumbup-sticker.png" width="80%" margin="3%"/>
+    </div>
     <div>
         <p>Hi, there! 👋</p>
         <p>
