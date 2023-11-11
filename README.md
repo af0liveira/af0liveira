@@ -17,5 +17,5 @@ Almost forgot... I'm a *programmer*, too! 😉
 </a>
 &nbsp;
 <a href="https://github.com/af0liveira">
-    <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/af0liveira?cntSuffix=%20Views"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=af0liveira"/>
 </a>
