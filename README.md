@@ -6,7 +6,7 @@ Hi, there! 👋
 
 I have a PhD in *theoretical and computational chemistry* with emphasis in DFT methods.  
 
-Almost forgot... I'm a *programmer*, too! 😉
+Almost forgot... I like programming, too! 😉
 
 <a href="https://www.linkedin.com/in/af0liveira/">
     <img src="https://img.shields.io/badge/in/af0liveira-blue?logo=linkedin"/>
